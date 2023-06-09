@@ -1,0 +1,226 @@
+Epoch 1 Iter 1 Train Acc 0.0859 Test Acc 0.0958
+======Best Model Saved======
+Epoch 1 Iter 5 Train Acc 0.1047 Test Acc 0.1005
+======Best Model Saved======
+Epoch 1 Iter 9 Train Acc 0.1094 Test Acc 0.1072
+======Best Model Saved======
+Epoch 1 Iter 13 Train Acc 0.1118 Test Acc 0.1132
+======Best Model Saved======
+Epoch 1 Iter 17 Train Acc 0.1181 Test Acc 0.1192
+======Best Model Saved======
+Epoch 1 Iter 21 Train Acc 0.1276 Test Acc 0.1259
+======Best Model Saved======
+Epoch 1 Iter 25 Train Acc 0.1306 Test Acc 0.1313
+======Best Model Saved======
+Epoch 1 Iter 29 Train Acc 0.1334 Test Acc 0.1393
+======Best Model Saved======
+Epoch 1 Iter 33 Train Acc 0.1406 Test Acc 0.1500
+======Best Model Saved======
+Epoch 1 Iter 37 Train Acc 0.1425 Test Acc 0.1561
+======Best Model Saved======
+Epoch 1 Iter 41 Train Acc 0.1448 Test Acc 0.1621
+======Best Model Saved======
+Epoch 1 Iter 45 Train Acc 0.1481 Test Acc 0.1688
+======Best Model Saved======
+Epoch 1 Iter 49 Train Acc 0.1518 Test Acc 0.1748
+======Best Model Saved======
+Epoch 1 Iter 51 Train Acc 0.1517 Test Acc 0.1775
+======Best Model Saved======
+Epoch 2 Iter 1 Train Acc 0.2031 Test Acc 0.1788
+======Best Model Saved======
+Epoch 2 Iter 5 Train Acc 0.1859 Test Acc 0.1855
+======Best Model Saved======
+Epoch 2 Iter 9 Train Acc 0.1849 Test Acc 0.1882
+======Best Model Saved======
+Epoch 2 Iter 13 Train Acc 0.2043 Test Acc 0.1983
+======Best Model Saved======
+Epoch 1 Iter 1 Train Acc 0.0455 Test Acc 0.1058
+======Best Model Saved======
+Epoch 1 Iter 2 Train Acc 0.1007 Test Acc 0.3061
+======Best Model Saved======
+Epoch 1 Iter 1 Train Acc 0.1094 Test Acc 0.0784
+======Best Model Saved======
+Epoch 1 Iter 5 Train Acc 0.1156 Test Acc 0.1541
+======Best Model Saved======
+Epoch 1 Iter 9 Train Acc 0.1319 Test Acc 0.1768
+======Best Model Saved======
+Epoch 1 Iter 13 Train Acc 0.1472 Test Acc 0.1775
+======Best Model Saved======
+Epoch 1 Iter 17 Train Acc 0.1581 Test Acc 0.1782
+======Best Model Saved======
+Epoch 1 Iter 21 Train Acc 0.1592 Test Acc 0.2150
+======Best Model Saved======
+Epoch 1 Iter 25 Train Acc 0.1672 Test Acc 0.2284
+======Best Model Saved======
+Epoch 1 Iter 29 Train Acc 0.1767 Test Acc 0.2599
+======Best Model Saved======
+Epoch 1 Iter 33 Train Acc 0.1851 Test Acc 0.2987
+======Best Model Saved======
+Epoch 1 Iter 37 Train Acc 0.1964 Test Acc 0.3108
+======Best Model Saved======
+Epoch 1 Iter 41 Train Acc 0.2060 Test Acc 0.3135
+======Best Model Saved======
+Epoch 1 Iter 45 Train Acc 0.2200 Test Acc 0.3128
+Epoch 1 Iter 49 Train Acc 0.2266 Test Acc 0.3603
+======Best Model Saved======
+Epoch 1 Iter 51 Train Acc 0.2319 Test Acc 0.3905
+======Best Model Saved======
+Epoch 2 Iter 1 Train Acc 0.3672 Test Acc 0.3992
+======Best Model Saved======
+Epoch 2 Iter 5 Train Acc 0.4062 Test Acc 0.4293
+======Best Model Saved======
+Epoch 2 Iter 9 Train Acc 0.4280 Test Acc 0.4528
+======Best Model Saved======
+Epoch 2 Iter 13 Train Acc 0.4291 Test Acc 0.4514
+Epoch 2 Iter 17 Train Acc 0.4453 Test Acc 0.4836
+======Best Model Saved======
+Epoch 2 Iter 21 Train Acc 0.4673 Test Acc 0.4977
+======Best Model Saved======
+Epoch 2 Iter 25 Train Acc 0.4709 Test Acc 0.5097
+======Best Model Saved======
+Epoch 2 Iter 29 Train Acc 0.4760 Test Acc 0.5405
+======Best Model Saved======
+Epoch 2 Iter 33 Train Acc 0.4837 Test Acc 0.5432
+======Best Model Saved======
+Epoch 2 Iter 37 Train Acc 0.4888 Test Acc 0.5673
+======Best Model Saved======
+Epoch 2 Iter 41 Train Acc 0.4994 Test Acc 0.6162
+======Best Model Saved======
+Epoch 2 Iter 45 Train Acc 0.5113 Test Acc 0.6202
+======Best Model Saved======
+Epoch 2 Iter 49 Train Acc 0.5195 Test Acc 0.6316
+======Best Model Saved======
+Epoch 2 Iter 51 Train Acc 0.5217 Test Acc 0.6330
+======Best Model Saved======
+Epoch 3 Iter 1 Train Acc 0.7109 Test Acc 0.6356
+======Best Model Saved======
+Epoch 3 Iter 5 Train Acc 0.6906 Test Acc 0.6443
+======Best Model Saved======
+Epoch 3 Iter 9 Train Acc 0.6979 Test Acc 0.6839
+======Best Model Saved======
+Epoch 3 Iter 13 Train Acc 0.7013 Test Acc 0.6812
+Epoch 3 Iter 17 Train Acc 0.7045 Test Acc 0.6865
+======Best Model Saved======
+Epoch 3 Iter 21 Train Acc 0.7061 Test Acc 0.7080
+======Best Model Saved======
+Epoch 3 Iter 25 Train Acc 0.7128 Test Acc 0.7167
+======Best Model Saved======
+Epoch 3 Iter 29 Train Acc 0.7117 Test Acc 0.7113
+Epoch 3 Iter 33 Train Acc 0.7164 Test Acc 0.7220
+======Best Model Saved======
+Epoch 3 Iter 37 Train Acc 0.7207 Test Acc 0.7140
+Epoch 3 Iter 41 Train Acc 0.7199 Test Acc 0.7301
+======Best Model Saved======
+Epoch 3 Iter 45 Train Acc 0.7247 Test Acc 0.7321
+======Best Model Saved======
+Epoch 3 Iter 49 Train Acc 0.7278 Test Acc 0.7395
+======Best Model Saved======
+Epoch 3 Iter 51 Train Acc 0.7277 Test Acc 0.7441
+======Best Model Saved======
+Epoch 4 Iter 1 Train Acc 0.7500 Test Acc 0.7421
+Epoch 4 Iter 5 Train Acc 0.7891 Test Acc 0.7374
+Epoch 4 Iter 9 Train Acc 0.8021 Test Acc 0.7435
+Epoch 4 Iter 13 Train Acc 0.8017 Test Acc 0.7475
+======Best Model Saved======
+Epoch 4 Iter 17 Train Acc 0.8079 Test Acc 0.7428
+Epoch 4 Iter 21 Train Acc 0.8114 Test Acc 0.7428
+Epoch 4 Iter 25 Train Acc 0.8147 Test Acc 0.7562
+======Best Model Saved======
+Epoch 4 Iter 29 Train Acc 0.8160 Test Acc 0.7528
+Epoch 4 Iter 33 Train Acc 0.8170 Test Acc 0.7542
+Epoch 4 Iter 37 Train Acc 0.8163 Test Acc 0.7515
+Epoch 4 Iter 41 Train Acc 0.8182 Test Acc 0.7528
+Epoch 4 Iter 45 Train Acc 0.8205 Test Acc 0.7562
+Epoch 4 Iter 49 Train Acc 0.8214 Test Acc 0.7616
+======Best Model Saved======
+Epoch 4 Iter 51 Train Acc 0.8223 Test Acc 0.7629
+======Best Model Saved======
+Epoch 5 Iter 1 Train Acc 0.8125 Test Acc 0.7629
+Epoch 5 Iter 5 Train Acc 0.8828 Test Acc 0.7508
+Epoch 5 Iter 9 Train Acc 0.8845 Test Acc 0.7649
+======Best Model Saved======
+Epoch 5 Iter 13 Train Acc 0.8918 Test Acc 0.7716
+======Best Model Saved======
+Epoch 5 Iter 17 Train Acc 0.8966 Test Acc 0.7609
+Epoch 5 Iter 21 Train Acc 0.8999 Test Acc 0.7696
+Epoch 5 Iter 25 Train Acc 0.8934 Test Acc 0.7642
+Epoch 5 Iter 29 Train Acc 0.8909 Test Acc 0.7622
+Epoch 5 Iter 33 Train Acc 0.8883 Test Acc 0.7622
+Epoch 5 Iter 37 Train Acc 0.8864 Test Acc 0.7783
+======Best Model Saved======
+Epoch 5 Iter 41 Train Acc 0.8868 Test Acc 0.7669
+Epoch 5 Iter 45 Train Acc 0.8859 Test Acc 0.7723
+Epoch 5 Iter 49 Train Acc 0.8886 Test Acc 0.7749
+Epoch 5 Iter 51 Train Acc 0.8883 Test Acc 0.7689
+Epoch 6 Iter 1 Train Acc 0.8438 Test Acc 0.7689
+Epoch 6 Iter 5 Train Acc 0.9062 Test Acc 0.7749
+Epoch 6 Iter 9 Train Acc 0.9201 Test Acc 0.7763
+Epoch 6 Iter 13 Train Acc 0.9261 Test Acc 0.7749
+Epoch 6 Iter 17 Train Acc 0.9297 Test Acc 0.7783
+Epoch 6 Iter 21 Train Acc 0.9293 Test Acc 0.7776
+Epoch 6 Iter 25 Train Acc 0.9309 Test Acc 0.7850
+======Best Model Saved======
+Epoch 6 Iter 29 Train Acc 0.9310 Test Acc 0.7636
+Epoch 6 Iter 33 Train Acc 0.9335 Test Acc 0.7837
+Epoch 6 Iter 37 Train Acc 0.9354 Test Acc 0.7917
+======Best Model Saved======
+Epoch 6 Iter 41 Train Acc 0.9362 Test Acc 0.7749
+Epoch 6 Iter 45 Train Acc 0.9378 Test Acc 0.7810
+Epoch 6 Iter 49 Train Acc 0.9383 Test Acc 0.7749
+Epoch 6 Iter 51 Train Acc 0.9385 Test Acc 0.7823
+Epoch 7 Iter 1 Train Acc 0.8906 Test Acc 0.7756
+Epoch 7 Iter 5 Train Acc 0.9516 Test Acc 0.7816
+Epoch 7 Iter 9 Train Acc 0.9609 Test Acc 0.7783
+Epoch 7 Iter 13 Train Acc 0.9633 Test Acc 0.7843
+Epoch 7 Iter 17 Train Acc 0.9642 Test Acc 0.7770
+Epoch 7 Iter 21 Train Acc 0.9661 Test Acc 0.7736
+Epoch 7 Iter 25 Train Acc 0.9675 Test Acc 0.7857
+Epoch 7 Iter 29 Train Acc 0.9679 Test Acc 0.7796
+Epoch 7 Iter 33 Train Acc 0.9676 Test Acc 0.7756
+Epoch 7 Iter 37 Train Acc 0.9679 Test Acc 0.7843
+Epoch 7 Iter 41 Train Acc 0.9678 Test Acc 0.7796
+Epoch 7 Iter 45 Train Acc 0.9681 Test Acc 0.7803
+Epoch 7 Iter 49 Train Acc 0.9683 Test Acc 0.7850
+Epoch 7 Iter 51 Train Acc 0.9679 Test Acc 0.7783
+Epoch 8 Iter 1 Train Acc 0.8594 Test Acc 0.7837
+Epoch 8 Iter 5 Train Acc 0.9547 Test Acc 0.7816
+Epoch 8 Iter 9 Train Acc 0.9688 Test Acc 0.7883
+Epoch 8 Iter 13 Train Acc 0.9766 Test Acc 0.7816
+Epoch 8 Iter 17 Train Acc 0.9807 Test Acc 0.7843
+Epoch 8 Iter 21 Train Acc 0.9818 Test Acc 0.7863
+Epoch 8 Iter 25 Train Acc 0.9838 Test Acc 0.7890
+Epoch 8 Iter 29 Train Acc 0.9841 Test Acc 0.7816
+Epoch 8 Iter 33 Train Acc 0.9844 Test Acc 0.7796
+Epoch 8 Iter 37 Train Acc 0.9840 Test Acc 0.7857
+Epoch 8 Iter 41 Train Acc 0.9848 Test Acc 0.7850
+Epoch 8 Iter 45 Train Acc 0.9845 Test Acc 0.7810
+Epoch 8 Iter 49 Train Acc 0.9852 Test Acc 0.7790
+Epoch 8 Iter 51 Train Acc 0.9852 Test Acc 0.7783
+Epoch 9 Iter 1 Train Acc 0.9375 Test Acc 0.7803
+Epoch 9 Iter 5 Train Acc 0.9812 Test Acc 0.7857
+Epoch 9 Iter 9 Train Acc 0.9870 Test Acc 0.7863
+Epoch 9 Iter 13 Train Acc 0.9892 Test Acc 0.7816
+Epoch 9 Iter 17 Train Acc 0.9894 Test Acc 0.7816
+Epoch 9 Iter 21 Train Acc 0.9914 Test Acc 0.7810
+Epoch 9 Iter 25 Train Acc 0.9909 Test Acc 0.7850
+Epoch 9 Iter 29 Train Acc 0.9916 Test Acc 0.7863
+Epoch 9 Iter 33 Train Acc 0.9917 Test Acc 0.7830
+Epoch 9 Iter 37 Train Acc 0.9920 Test Acc 0.7810
+Epoch 9 Iter 41 Train Acc 0.9928 Test Acc 0.7870
+Epoch 9 Iter 45 Train Acc 0.9931 Test Acc 0.7904
+Epoch 9 Iter 49 Train Acc 0.9935 Test Acc 0.7796
+Epoch 9 Iter 51 Train Acc 0.9935 Test Acc 0.7803
+Epoch 10 Iter 1 Train Acc 0.9531 Test Acc 0.7823
+Epoch 10 Iter 5 Train Acc 0.9891 Test Acc 0.7863
+Epoch 10 Iter 9 Train Acc 0.9922 Test Acc 0.7857
+Epoch 10 Iter 13 Train Acc 0.9946 Test Acc 0.7837
+Epoch 10 Iter 17 Train Acc 0.9954 Test Acc 0.7863
+Epoch 10 Iter 21 Train Acc 0.9959 Test Acc 0.7830
+Epoch 10 Iter 25 Train Acc 0.9962 Test Acc 0.7823
+Epoch 10 Iter 29 Train Acc 0.9965 Test Acc 0.7803
+Epoch 10 Iter 33 Train Acc 0.9967 Test Acc 0.7830
+Epoch 10 Iter 37 Train Acc 0.9964 Test Acc 0.7796
+Epoch 10 Iter 41 Train Acc 0.9964 Test Acc 0.7783
+Epoch 10 Iter 45 Train Acc 0.9967 Test Acc 0.7857
+Epoch 10 Iter 49 Train Acc 0.9967 Test Acc 0.7863
+Epoch 10 Iter 51 Train Acc 0.9968 Test Acc 0.7837

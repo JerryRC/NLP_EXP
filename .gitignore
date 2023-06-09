@@ -1,0 +1,11 @@
+**/LegalCaseReportsDataset
+**/.vscode
+*.bin
+*.pkl
+*.npy
+task2/NLP2
+*.zip
+*.pth
+**/__pycache__
+**/legal_case_reports
+**/text8
